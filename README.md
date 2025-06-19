@@ -74,7 +74,7 @@ Clone the repo:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/insurance-price-prediction.git
+git clone https://github.com/gapskris/medical_insurance_prediction.git
 cd insurance-price-prediction
 Install dependencies:
 
